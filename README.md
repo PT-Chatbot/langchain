@@ -1,6 +1,6 @@
-![Banner](./LangChain%20Banner.webp)
-
 # Langchain
+
+![Banner](./OPENAI%20x%20LANGCHAIN.webp)
 
 Langchain es una poderosa biblioteca diseñada para transformar la interacción y el flujo de trabajo con modelos de lenguaje de aprendizaje automático. A continuación, se ofrece una visión general de los temas y cuadernos incluidos en este repositorio, destacando cómo cada uno aborda diferentes aspectos y funcionalidades de Langchain.
 
